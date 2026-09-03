@@ -1,11 +1,13 @@
 about:
-  description: get to your bookmarks in a flash
+  description:
+  |
+    get to your bookmarks in a flash
   license: MIT
   homepage: https://tools.dhruvs.space/bmm
   head: ff1b619
   archived: false
   latestVersion: v0.3.1
-  collectedAt: 2026-09-03T05:19:22Z
+  collectedAt: 2026-09-03T22:34:36Z
 timeline:
   created: 2025-02-12
   lastCommit: 2026-08-28
@@ -20,7 +22,7 @@ popularity:
   issue: 15
 language:
   Rust: 333074
-totalLine: 333074
+totalBytes: 333074
 recent:
   last30d:
     since: 2026-08-04
