@@ -1,6 +1,24 @@
----
-owner-repo: dhth/bmm
-desc:   get to your bookmarks in a flash 
----
-
 # bmm
+
+get to your bookmarks in a flash
+
+- **Upstream**: <https://github.com/dhth/bmm>
+- **Homepage**: <https://tools.dhruvs.space/bmm>
+- **Latest release**: `v0.3.1` (2026-05-16)
+- **Last commit**: 2026-08-28
+- **License**: MIT
+- **Stars**: 238 · **Forks**: 4 · **Open issues**: 15 · **Contributors**: 1
+
+## Installation
+
+```sh
+x install bmm
+```
+
+See <https://x-cmd.com/install/bmm> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:21:13Z._
