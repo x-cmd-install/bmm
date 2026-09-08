@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1807048,
       "digest": "sha256:55639374f14ef8133682658adced2355aa0a1ce553f5f2689c427e15945fa72c",
-      "download_count": 420,
+      "download_count": 421,
       "created_at": "2026-05-16T09:58:30Z",
       "updated_at": "2026-05-16T09:58:31Z",
       "browser_download_url": "https://github.com/dhth/bmm/releases/download/v0.3.1/bmm-aarch64-apple-darwin.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2368492,
       "digest": "sha256:e6f8ece84cd4dbeb4fd6343f09d3c59529fab9740cd9409cc75d0a6c035631a0",
-      "download_count": 74,
+      "download_count": 75,
       "created_at": "2026-05-16T09:58:31Z",
       "updated_at": "2026-05-16T09:58:31Z",
       "browser_download_url": "https://github.com/dhth/bmm/releases/download/v0.3.1/bmm-x86_64-unknown-linux-musl.tar.xz"
