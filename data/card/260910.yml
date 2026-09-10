@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.1"
   latestRelease: "v0.3.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:49:30Z
+  collectedAt: 2026-09-10T22:55:30Z
 timeline:
   created: 2025-02-12
   lastCommit: 2026-08-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-16
   lastPrerelease: 
 popularity:
-  star: 238
+  star: 239
   watcher: 3
   fork: 4
   release: 4
@@ -83,7 +83,7 @@ total:
   commit: 151
 ---
 path: /home/runner/.x-repo/github.com/dhth/bmm
-collectedAt: 2026-09-10T20:49:30Z
+collectedAt: 2026-09-10T22:55:32Z
 loc:
   Rust:
     code: 9595
