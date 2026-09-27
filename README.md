@@ -48,12 +48,12 @@ Total: **10,146** lines of code across **74** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 2 | 1 | 0 | 2 | 4 |
-| last60d | 2026-07-28 | 0 | 14 | 1 | 1 | 2 | 17 |
-| 90d | 2026-06-28 | 0 | 14 | 1 | 1 | 3 | 17 |
-| last180d | 2026-03-30 | 1 | 33 | 1 | 2 | 4 | 40 |
-| 360d | 2025-10-01 | 1 | 56 | 1 | 2 | 7 | 64 |
-| last720d | 2024-10-06 | 4 | 119 | 2 | 6 | 9 | 152 |
+| 30d | 2026-08-28 | 0 | 1 | 1 | 0 | 2 | 1 |
+| last60d | 2026-07-29 | 0 | 14 | 1 | 1 | 2 | 17 |
+| 90d | 2026-06-29 | 0 | 14 | 1 | 1 | 3 | 17 |
+| last180d | 2026-03-31 | 1 | 33 | 1 | 2 | 4 | 34 |
+| 360d | 2025-10-02 | 1 | 56 | 1 | 2 | 7 | 63 |
+| last720d | 2024-10-07 | 4 | 119 | 2 | 6 | 9 | 152 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for bmm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:21:29Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:46:52Z._
