@@ -48,12 +48,12 @@ Total: **10,146** lines of code across **74** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 6 | 1 | 0 | 2 | 8 |
-| 90d | 2026-07-24 | 0 | 14 | 1 | 1 | 2 | 17 |
-| last180d | 2026-04-25 | 1 | 26 | 1 | 2 | 4 | 32 |
-| 360d | 2025-10-27 | 1 | 56 | 1 | 2 | 7 | 63 |
-| last720d | 2024-11-01 | 4 | 119 | 2 | 6 | 9 | 152 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 6 | 1 | 0 | 2 | 8 |
+| 90d | 2026-07-25 | 0 | 14 | 1 | 1 | 2 | 17 |
+| last180d | 2026-04-26 | 1 | 26 | 1 | 2 | 4 | 32 |
+| 360d | 2025-10-28 | 1 | 56 | 1 | 2 | 7 | 63 |
+| last720d | 2024-11-02 | 4 | 119 | 2 | 6 | 9 | 152 |
 
 ## Release assets
 
@@ -76,6 +76,14 @@ Total: **10,146** lines of code across **74** files in the top 5 languages.
 | [source.tar.gz](https://github.com/dhth/bmm/releases/download/v0.3.1/source.tar.gz) | 83.8 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/dhth/bmm/releases/download/v0.3.1/source.tar.gz.sha256) | 81 B | `other` |
 
+## Distribution status
+
+Reported by **5** distros on [repology.org](https://repology.org/project/bmm). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.3.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for bmm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bmm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +93,4 @@ Install metadata for bmm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:05:39Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:19:32Z._
