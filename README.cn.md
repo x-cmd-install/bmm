@@ -48,12 +48,12 @@ x install bmm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-08 | 0 | 14 | 1 | 1 | 2 | 17 |
-| last180d | 2026-05-10 | 1 | 24 | 1 | 2 | 4 | 30 |
-| 360d | 2025-11-11 | 1 | 48 | 1 | 2 | 7 | 55 |
-| last720d | 2024-11-16 | 4 | 119 | 2 | 6 | 9 | 152 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-09 | 0 | 14 | 1 | 1 | 2 | 17 |
+| last180d | 2026-05-11 | 1 | 24 | 1 | 2 | 4 | 30 |
+| 360d | 2025-11-12 | 1 | 48 | 1 | 2 | 7 | 55 |
+| last720d | 2024-11-17 | 4 | 119 | 2 | 6 | 9 | 152 |
 
 ## Release 资产
 
@@ -76,14 +76,6 @@ x install bmm
 | [source.tar.gz](https://github.com/dhth/bmm/releases/download/v0.3.1/source.tar.gz) | 83.8 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/dhth/bmm/releases/download/v0.3.1/source.tar.gz.sha256) | 81 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/bmm) 上共有 **5** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.3.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 bmm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `bmm` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -93,4 +85,4 @@ bmm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T07:17:55Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T06:27:17Z._
