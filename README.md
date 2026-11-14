@@ -14,12 +14,12 @@ x install bmm
 
 ## Code insight
 
-Total: **10,140** lines of code across **74** files in the top 5 languages.
+Total: **10,139** lines of code across **74** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 9,595 | 639 | 1,192 | 59 |
-| Toml | 230 | 14 | 33 | 6 |
+| Toml | 229 | 14 | 33 | 6 |
 | Sh | 120 | 17 | 63 | 2 |
 | Json | 84 | 0 | 0 | 6 |
 | Python | 46 | 1 | 9 | 1 |
@@ -33,7 +33,7 @@ Total: **10,140** lines of code across **74** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.1` (2026-05-16)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-13
 - **Assets in release**: 16
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **10,140** lines of code across **74** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 125 · **Open PRs**: 2 · **Closed issues**: 6 · **Open issues**: 9 · **Commits**: 158
+- **Releases**: 4 · **Merged PRs**: 127 · **Open PRs**: 2 · **Closed issues**: 6 · **Open issues**: 9 · **Commits**: 160
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 6 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-14 | 0 | 6 | 0 | 0 | 0 | 6 |
-| 90d | 2026-08-15 | 0 | 14 | 1 | 1 | 2 | 16 |
-| last180d | 2026-05-17 | 0 | 28 | 1 | 2 | 4 | 33 |
-| 360d | 2025-11-18 | 1 | 54 | 1 | 2 | 6 | 61 |
-| last720d | 2024-11-23 | 4 | 125 | 2 | 6 | 9 | 158 |
+| 30d | 2026-10-15 | 0 | 8 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-15 | 0 | 8 | 0 | 0 | 0 | 8 |
+| 90d | 2026-08-16 | 0 | 16 | 1 | 1 | 2 | 18 |
+| last180d | 2026-05-18 | 0 | 30 | 1 | 2 | 4 | 35 |
+| 360d | 2025-11-19 | 1 | 55 | 1 | 2 | 4 | 63 |
+| last720d | 2024-11-24 | 4 | 127 | 2 | 6 | 9 | 160 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for bmm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:20:58Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:03:10Z._
