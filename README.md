@@ -38,22 +38,22 @@ Total: **10,139** lines of code across **74** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 239 · **Forks**: 5 · **Open issues**: 15 · **Contributors**: 1
+- **Stars**: 239 · **Forks**: 5 · **Open issues**: 16 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 127 · **Open PRs**: 2 · **Closed issues**: 6 · **Open issues**: 9 · **Commits**: 160
+- **Releases**: 4 · **Merged PRs**: 127 · **Open PRs**: 2 · **Closed issues**: 6 · **Open issues**: 10 · **Commits**: 160
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 8 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 0 | 8 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-23 | 0 | 14 | 1 | 0 | 2 | 0 |
-| last180d | 2026-05-25 | 0 | 30 | 1 | 2 | 3 | 0 |
-| 360d | 2025-11-26 | 1 | 55 | 1 | 2 | 4 | 0 |
-| last720d | 2024-12-01 | 4 | 127 | 2 | 6 | 9 | 160 |
+| 30d | 2026-10-23 | 0 | 8 | 0 | 0 | 1 | 8 |
+| last60d | 2026-09-23 | 0 | 8 | 0 | 0 | 1 | 8 |
+| 90d | 2026-08-24 | 0 | 14 | 1 | 0 | 3 | 16 |
+| last180d | 2026-05-26 | 0 | 30 | 1 | 2 | 4 | 35 |
+| 360d | 2025-11-27 | 1 | 55 | 1 | 2 | 5 | 62 |
+| last720d | 2024-12-02 | 4 | 127 | 2 | 6 | 10 | 160 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for bmm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:11:56Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:31:04Z._
